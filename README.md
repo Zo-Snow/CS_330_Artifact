@@ -36,5 +36,17 @@ A Bachelor’s degree in Computer Science has helped me go through different sub
 
 Although I have not fully decided on the specific pathway I will choose after completing my Computer Science degree, if I decide to move toward computational or gaming graphics, the knowledge I gained in this course will serve as a strong starting point. The skills I developed will help me understand the field more deeply and prepare me for more advanced study in this area.
 
+# Concept Image Created in Photoshop for 3D Scene Design
+
+![Simplified final image](https://github.com/user-attachments/assets/7340ac43-edec-42cc-9c87-a911791b10c7)
+
+# Final 3D Scene
+
+<img width="989" height="647" alt="Afternoon Scene" src="https://github.com/user-attachments/assets/1da9ebf9-677e-418f-a276-db949cd05c86" />
+
+# Final 3D Scene at Night
+
+<img width="921" height="644" alt="Night Scene" src="https://github.com/user-attachments/assets/2a767057-0492-4597-a0a0-dd9937c0ce96" />
+
 
 
